@@ -1,0 +1,9 @@
+original (1x3)
+<?xml version="1.0" encoding="UTF-8"?>
+<appwidget-provider android:minWidth="220.0dip" android:minHeight="72.0dip" 
+
+edited (1x4)
+<?xml version="1.0" encoding="UTF-8"?>
+<appwidget-provider android:minWidth="300.0dip" android:minHeight="72.0dip" 
+
+chainging android:minWidth to whatever you want 150 or so would be 1x2
